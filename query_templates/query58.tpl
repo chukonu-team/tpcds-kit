@@ -99,3 +99,4 @@
          ,ss_item_rev
  [_LIMITC];
 
+define _END="";

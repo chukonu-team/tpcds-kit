@@ -70,3 +70,4 @@ where asceding.rnk = descending.rnk
 order by asceding.rnk
 [_LIMITC];
 
+define _END="";

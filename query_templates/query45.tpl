@@ -54,3 +54,4 @@
  group by ca_zip, [GBOBC]
  order by ca_zip, [GBOBC]
  [_LIMITC];
+define _END="";

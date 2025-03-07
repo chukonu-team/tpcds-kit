@@ -102,3 +102,4 @@
  order by sr_items.item_id
          ,sr_item_qty
  [_LIMITC];
+define _END="";

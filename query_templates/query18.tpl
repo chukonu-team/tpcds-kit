@@ -71,3 +71,4 @@
 	i_item_id
  [_LIMITC];
 
+define _END="";

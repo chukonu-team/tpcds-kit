@@ -88,3 +88,4 @@
  order by i_product_name
  [_LIMITC];
 
+define _END="";

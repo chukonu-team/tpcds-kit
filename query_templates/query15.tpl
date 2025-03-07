@@ -54,3 +54,4 @@
  order by ca_zip
  [_LIMITC];
 
+define _END="";

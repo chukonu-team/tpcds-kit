@@ -60,3 +60,4 @@
  order by cnt, a.ca_state 
  [_LIMITC];
 
+define _END="";

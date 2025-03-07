@@ -86,3 +86,4 @@ where r_reason_sk = 1
 ;
  
 
+define _END="";

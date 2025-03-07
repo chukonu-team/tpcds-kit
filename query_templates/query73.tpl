@@ -67,3 +67,4 @@
       and cnt between 1 and 5
     order by cnt desc, c_last_name asc;
 
+define _END="";

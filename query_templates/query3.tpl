@@ -56,3 +56,4 @@
          ,brand_id
  [_LIMITC];
 
+define _END="";

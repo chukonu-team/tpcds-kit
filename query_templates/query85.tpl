@@ -119,3 +119,4 @@ order by substr(r_reason_desc,1,20)
         ,avg(wr_refunded_cash)
         ,avg(wr_fee)
 [_LIMITC]; 
+define _END="";

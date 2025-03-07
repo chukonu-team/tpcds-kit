@@ -66,3 +66,4 @@
          ,s_state
  [_LIMITC];
 
+define _END="";

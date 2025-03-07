@@ -93,3 +93,4 @@
  order by segment, num_customers
  [_LIMITC];
  
+define _END="";

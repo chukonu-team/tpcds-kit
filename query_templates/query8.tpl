@@ -142,3 +142,4 @@
  group by s_store_name
  order by s_store_name
  [_LIMITC];
+define _END="";

@@ -162,3 +162,4 @@
  )
  order by 1,4,5,2
  [_LIMITC];
+define _END="";
